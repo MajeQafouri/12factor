@@ -44,6 +44,7 @@ Bob Marteen,
 [@Arturszott](https://github.com/Arturszott),
 [@melikeyurtoglu](https://github.com/melikeyurtoglu),
 [@filiphanes](https://github.com/filiphanes)
+[@MajidQafouri](https://github.com/MajeQafouri)
 and [more](https://github.com/heroku/12factor/graphs/contributors).
 
 Released under the MIT License:
