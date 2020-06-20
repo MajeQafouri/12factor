@@ -1,4 +1,5 @@
-Who should read this document?
+﻿چه کسی باید این مستند را بخواند؟
 ==============================
+هر توسعه دهنده ای  که برنامه هایی توسعه میدهد که می تواند بصورت یک سرویس اجرا شود.
+مهندسین عملیات و زیرساختی که چنین برنامه هایی را مدیریت می کنند
 
-Any developer building applications which run as a service.  Ops engineers who deploy or manage such applications.
