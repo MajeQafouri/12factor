@@ -1,38 +1,39 @@
-The Twelve Factors
+﻿دوازده عامل
 ==================
 
 ## [I. Codebase](./codebase)
-### One codebase tracked in revision control, many deploys
+### وجود یک کد پایه در سیستم سورس کنترلر  و نسخه های مختلف برای توسعه
 
 ## [II. Dependencies](./dependencies)
-### Explicitly declare and isolate dependencies
+### تعریف و جداسازی وابستگی ها بصورت صریح
 
 ## [III. Config](./config)
-### Store config in the environment
+###  ذخیره سازی تنظیمات در محیط مربوطه
 
 ## [IV. Backing services](./backing-services)
-### Treat backing services as attached resources
+###  با سرویس های پشتیبان بصورت منابع متصل شده برخورد شود
 
 ## [V. Build, release, run](./build-release-run)
-### Strictly separate build and run stages
+### جداسازی موکد مرحله ساخت و اجرای برنامه 
 
 ## [VI. Processes](./processes)
-### Execute the app as one or more stateless processes
+###  stateless اجرای برنامه بعنوان یک یا بیش از یک فرایند 
 
 ## [VII. Port binding](./port-binding)
-### Export services via port binding
+### ارائه سرویس ها به بیرون توسط port binding
 
 ## [VIII. Concurrency](./concurrency)
-### Scale out via the process model
+### مقیاش کردن توسط فرایند مدل
 
 ## [IX. Disposability](./disposability)
-### Maximize robustness with fast startup and graceful shutdown
+ 
+### افزایش کیفیت یا شروع سریع و اتمام مناسب
 
 ## [X. Dev/prod parity](./dev-prod-parity)
-### Keep development, staging, and production as similar as possible
+### نسخه های develpment , staging , و production را تا حد ممکن شبیه به هم نگه دارید
 
 ## [XI. Logs](./logs)
-### Treat logs as event streams
+### با لاگ ها بشکل جریانی از رویدادها برخورد نمایید  
 
 ## [XII. Admin processes](./admin-processes)
-### Run admin/management tasks as one-off processes
+### اجرای دستورات مدیریت بصورت فرایند های یکطرفه
